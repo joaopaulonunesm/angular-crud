@@ -1,0 +1,8 @@
+{
+    "*": {
+        "target": "http://ec2-3-230-151-213.compute-1.amazonaws.com",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true
+    }
+}
